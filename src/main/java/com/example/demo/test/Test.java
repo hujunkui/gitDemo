@@ -1,7 +1,7 @@
 package com.example.demo.test;
 
 public class Test {
-
-    private int test;
-    private String name;
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }
